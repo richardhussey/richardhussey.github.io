@@ -12,6 +12,7 @@ title: Education
 		+ _"Automated Categorisation Of E-journals By Synonym Analysis Of N-grams"_
 		+ _"Automatic Keyphrase Extraction: A Comparison Of Methods"_
 		+ _"Keyphrase Extraction By Synonym Analysis Of N-grams For E-journal Classification"_
+		+ (See [Publications](publications.html) for details)
 
 In my thesis, I explored how to assign keywords and phrases accurately to single documents, based upon only their content and a thesaurus reference document.  The findings of the PhD were that the approach undertaken had merit, but that the method investigated of using synonyms was not significantly better than a simple count of frequently occurring words.
 
@@ -22,6 +23,7 @@ There were a number of publications arising from this work.  One presentation wa
 		+ Supervisor: Dr Will Browne
 		+ Obtained a Nuffield Foundation grant (Grant Reference URB/34413)
 		+ Published as: _"Emotional Cognitive Steps Towards Consciousness"_ and _"An Evolutionary Approach To Improving Path Finding In Domestic Robots"_
+		+ (See [Publications](publications.html) for details)
 	+ Third year dissertation – _"Hand Gesture Recognition Via Webcam For Computer Control"_
 		+ Supervisors: Dr James Ferryman & Dr Anthony Worrall
 
