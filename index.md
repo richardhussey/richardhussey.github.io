@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+---
+layout: about
+title: About Me
+---
 
-You can use the [editor on GitHub](https://github.com/richardhussey/richardhussey.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am currently a senior data scientist working in the logistics and supply chain industry.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
++ I am an experienced data scientist, analyst, and developer with over 6 years in-depth, practical experience of large volume data analytics using products such as Alteryx and WPS/SAS, as well as lower-level analytical programming using Transact-SQL and Excel/VBA.  I have worked on both SQL (MS-SQL Server) and NoSQL (neo4j, MongoDB) databases.
 
-### Markdown
++ I have extensive knowledge of machine learning approaches and technologies, allied with research into natural language processing and evolutionary computation.  This is coupled with a background in programming, primarily with Python, and augmented with experience in C#, R, and Ruby.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/richardhussey/richardhussey.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
++ I have experience with mentoring junior colleagues and reporting on analytics and results to management and stakeholders.  I have extensive experience writing documentation and improving processes through standardisation and automation.
