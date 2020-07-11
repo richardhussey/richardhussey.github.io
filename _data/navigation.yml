@@ -1,2 +1,4 @@
 - name: About
   link: /
+- name: Contact
+  link: /contact.html
