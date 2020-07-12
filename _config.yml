@@ -23,7 +23,7 @@ email: https://spamty.eu/show/v6/8/8b7caf43ec030dcb2cf86545/
 description: >- # this means to ignore newlines until "baseurl:"
   Senior Data Scientist
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://richardhussey.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.richardhussey.net/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: vecna
 github_username: richardhussey
 
