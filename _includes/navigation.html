@@ -5,6 +5,8 @@
     {% else %}
       <a href="{{ item.link }}">{{ item.name }}</a>
     {% endif %}
-    &nbsp;
+    {% if item != site.data.navigation.last %}
+        &nbsp;-&nbsp;
+    {% endif %}
   {% endfor %}
 </nav>
