@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About Me
+title: Home
 ---
 
 I am currently a senior data scientist working in the logistics and supply chain industry.
