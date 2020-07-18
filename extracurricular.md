@@ -18,7 +18,7 @@ title: Extracurricular Activities
 		+ Responsible for taking and maintaining minutes of Board meetings
 		+ Point of contact for the Board
 
-+ 2004-2011: Reading University Student’s Union {Voluntary}
++ 2004-2011: Reading University Student's Union {Voluntary}
 	+ RUSU Sci-Fi, Fantasy, and Horror Film Society
 		+ 2005-2011: President
 		+ 2004-2005: Vice-President

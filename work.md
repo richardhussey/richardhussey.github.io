@@ -15,7 +15,7 @@ title: Work
 
 + Machine Learning Analyst, Forecasting, Planning, & Inventory
 	+ **Key technologies**: Python, H2O SQL, MongoDB
-	+ I built machine learning models for forecasting customers’ item demand
+	+ I built machine learning models for forecasting customers' item demand
 	+ I generated, maintained, and validated the results of monthly forecasts from existing models 
 	+ I enforced data quality standards for the monthly forecasts and updated accuracy stats on customer accounts
 	+ I maintained documentation for the forecasting engine
@@ -27,7 +27,7 @@ title: Work
 	+ **Key technologies**: WPS / SAS, T-SQL / MS SQL Server
 	+ I maintained, created, and validated the results of an annual data analysis for Experian data products, including ConsumerView and Mosaic segmentations
 	+ I maintained and created documentation for data products
-	+ I created a set of bespoke analytics on Experian’s Financial Strategy Segments data product
+	+ I created a set of bespoke analytics on Experian's Financial Strategy Segments data product
 	+ I defined WPS coding standards and defined best practice for version control using Git
 	+ I enforced data quality standards and produced accuracy stats on data products
 
