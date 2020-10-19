@@ -20,8 +20,8 @@ title: Extracurricular Activities
 
 + 2004-2011: Reading University Student's Union {Voluntary}
 	+ RUSU Sci-Fi, Fantasy, and Horror Film Society
-		+ 2005-2011: President
-		+ 2004-2005: Vice-President
+		+ 2006-2011: President
+		+ 2005-2006: Vice-President
 		+ 2005-2011: Webmaster
 	+ RUSU Societies Convention Committee
 		+ 2008-2011: Secretary
