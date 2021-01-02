@@ -1,12 +1,10 @@
-<nav>
-  {% for item in site.data.navigation %}
-    {% if page.url == item.link %}
-      {{ item.name }}
-    {% else %}
-      <a href="{{ item.link }}">{{ item.name }}</a>
-    {% endif %}
-    {% if item != site.data.navigation.last %}
-        &nbsp;-&nbsp;
-    {% endif %}
-  {% endfor %}
-</nav>
+{% for item in site.data.navigation %}
+  {% if page.url == item.link %}
+    {{ item.name }}
+  {% else %}
+    <a href="{{ item.link }}">{{ item.name }}</a>
+  {% endif %}
+  {% if item != site.data.navigation.last %}
+      &nbsp;-&nbsp;
+  {% endif %}
+{% endfor %}
