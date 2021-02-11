@@ -16,7 +16,7 @@ title: Training
 	+ [Kaggle R Tutorial on Machine Learning Course](https://www.datacamp.com/statement-of-accomplishment/course/fd556b0b4e6cf7df37f34ac3be02051278ed8939) - May 2017
 	+ [Introduction to Python & Machine Learning (with Analytics Vidhya Hackathons)](https://www.datacamp.com/statement-of-accomplishment/course/d0530b066080e6dac28a68cfe0149495f45870a1) - Aug 2016
 
-+ Code School
++ Code School / Pluralsight
 	+ [the-sequel-to-sql](https://www.codeschool.com/courses/the-sequel-to-sql) - Sep 2015
 	+ [try-sql](https://www.codeschool.com/courses/try-sql) - Sep 2015
 
