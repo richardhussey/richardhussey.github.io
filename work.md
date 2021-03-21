@@ -7,6 +7,7 @@ title: Work
 ### [Incora](https://www.incora.com/) (formally Pattonair) [2018-Present]
 + Senior Machine Learning Analyst, Data Science
 	+ **Key technologies**: Python, H2O, Graph DB
+	+ I acted as Technical Lead for SIOP related ML projects, driving the technical direction of the products, ensuring consistency of coding standards, and unifying the technical vision across multiple work streams
 	+ I built new machine learning models for forecasting customer demand and retuned existing models to ensure accuracy remained acceptable
 	+ I maintained feature/issue log for BAU processes and ensured continual progress was made
 	+ I researched new technologies for improving processes and expanding capabilities
