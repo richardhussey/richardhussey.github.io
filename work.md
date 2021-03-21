@@ -44,12 +44,12 @@ title: Work
 + Data Analyst, Executive Project Management Office
 	+ **Key technologies**: Excel, VBA
 	+ I collated financial data to track positive and negative contributions to course and module income
-	+ I programmatically generated standardised reports and graphs based on the summary data (using VBA)
+	+ I automated the generation of standardised reports and graphs based on the summary data (using VBA)
 
 + Data Analyst, Market Intelligence Unit
 	+ **Key technologies**: Excel, VBA
 	+ I created dashboards to allow end users to access strategic slices of large datasets
-	+ I programmatically generated standardised reports and graphs based on the summary data
+	+ I automated the generation of standardised reports and graphs based on the summary data
 	+ I created customisable graphs to allow end users to compare categories of their choice
 	+ I automated modification of pivot tables within Excel
 	+ I extracted data from large collections of Excel files using VBA macros
