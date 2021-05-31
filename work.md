@@ -4,7 +4,11 @@ title: Work
 ---
 
 ## Current Employment
-### [Incora](https://www.incora.com/) (formally Pattonair) [2018-Present]
+### [Advantage Smollan](http://www.advantagesmollan.com/) [2021-present]
++ Senior Data Scientist
+
+## Previous Employment
+### [Incora](https://www.incora.com/) (formally Pattonair) [2018-2021]
 + Senior Machine Learning Analyst, Data Science
 	+ **Key technologies**: Python, H2O, Graph DB
 	+ I acted as Technical Lead for SIOP related ML projects, driving the technical direction of the products, ensuring consistency of coding standards, and unifying the technical vision across multiple work streams
@@ -22,7 +26,6 @@ title: Work
 	+ I maintained documentation for the forecasting engine
 	+ I created tools for reporting system performance and forecasting recommendations both horizontally and vertically within the business
 
-## Previous Employment
 ### Experian (Marketing Services) [2014-2018]
 + Data Analyst, Data Science
 	+ **Key technologies**: WPS / SAS, T-SQL / MS SQL Server
