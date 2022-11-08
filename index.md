@@ -10,3 +10,5 @@ I am currently a senior data scientist working in the retail and marketing secto
 + I have extensive knowledge of machine learning approaches and technologies, allied with research into natural language processing and evolutionary computation.  This is coupled with a background in programming, primarily with Python, and augmented with varying experience in C#, R, and Ruby.
 
 + I have experience with mentoring junior colleagues and reporting on analytics and results to management and stakeholders.  I have extensive experience writing documentation and improving processes through standardisation and automation.
+
+<a rel="me" href="https://mastodon.online/@Vecna"></a>
