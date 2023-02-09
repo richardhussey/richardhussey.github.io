@@ -11,11 +11,11 @@ title: Work
 ### [Incora](https://www.incora.com/) (formally Pattonair) [2018-2021]
 + Senior Machine Learning Analyst, Data Science
 	+ **Key technologies**: Python, H2O, Graph DB
-	+ I acted as Technical Lead for SIOP related ML projects, driving the technical direction of the products, ensuring consistency of coding standards, and unifying the technical vision across multiple work streams
+	+ I acted as Technical Lead for SIOP-related ML projects, driving the technical direction of the products, ensuring consistency of coding standards, and unifying the technical vision across multiple work streams
 	+ I built new machine learning models for forecasting customer demand and retuned existing models to ensure accuracy remained acceptable
-	+ I maintained feature/issue log for BAU processes and ensured continual progress was made
+	+ I maintained the feature/issue log for BAU processes and ensured continual progress was made
 	+ I researched new technologies for improving processes and expanding capabilities
-	+ I helped scope out potential projects and refine suggestions for the Data Science road map
+	+ I helped scope out potential projects and refine suggestions for the Data Science roadmap
 	+ I mentored junior colleagues in the team and helped conduct interviews
 
 + Machine Learning Analyst, Forecasting, Planning, & Inventory
@@ -29,17 +29,17 @@ title: Work
 ### Experian (Marketing Services) [2014-2018]
 + Data Analyst, Data Science
 	+ **Key technologies**: WPS / SAS, T-SQL / MS SQL Server
-	+ I maintained, created, and validated the results of an annual data analysis for Experian data products, including ConsumerView and Mosaic segmentations
+	+ I maintained, created, and validated the results of annual data analysis for Experian data products, including ConsumerView and Mosaic segmentations
 	+ I maintained and created documentation for data products
 	+ I created a set of bespoke analytics on Experian's Financial Strategy Segments data product
-	+ I defined WPS coding standards and defined best practice for version control using Git
+	+ I defined WPS coding standards and defined best practices for version control using Git
 	+ I enforced data quality standards and produced accuracy stats on data products
 
 + Data Developer, Data and Application Development
 	+ **Key technologies**: Alteryx, T-SQL / MS SQL Server
 	+ I designed and built core databases for the GDPR readiness project, Experian production platforms, and data products
 	+ I represented Experian at the neo4j developer conference
-	+ I supervised and guided junior colleagues work, and advised senior colleagues, management, and stakeholders
+	+ I supervised and guided junior colleagues' work, and advised senior colleagues, management, and stakeholders
 	+ I implemented, maintained, and supported data products including ConsumerView, Location Analyst, and Segmentation Portal
 	+ I analysed and audited data and specifications for Experian data products and production platforms
 	+ I created a range of documentation for development and operational teams
@@ -55,7 +55,7 @@ title: Work
 	+ I created dashboards to allow end users to access strategic slices of large datasets
 	+ I automated the generation of standardised reports and graphs based on the summary data
 	+ I created customisable graphs to allow end users to compare categories of their choice
-	+ I automated modification of pivot tables within Excel
+	+ I automated the modification of pivot tables within Excel
 	+ I extracted data from large collections of Excel files using VBA macros
 
 ### Almor Group [2013]
@@ -66,8 +66,8 @@ title: Work
 
 ### University of Reading [2006-2011]
 + Research Technician, School of Systems Engineering
-	+ Maintenance of RedGloo social network site
-	+ Assistance given for the Enable project
+	+ Maintenance of the RedGloo social network site
+	+ Assisted the Enable project
 	+ Ensuring audio files were correctly encoded and usable
 
 + Demonstrator / Tutor, School of Systems Engineering
