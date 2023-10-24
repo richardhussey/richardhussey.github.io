@@ -38,12 +38,3 @@ The robot had six emotions, three positive (appetitive) and three negative (aver
 | Future  | Derivative   | Hope      | Fear    |
 
 The LCS was used to learn the effective use of the emotions.  I.e. for a given emotional state, what is the best action to take – forwards, backwards, turn, etc.
-
-## Ramsey Abbey School [2000-2004]
-+ A-Levels
-	+ A2: Mathematics (A), Physics (B), ICT (C)
-	+ AS: Computing (A), General Studies (B), Geography (D)
-+ GCSEs
-	+ Mathematics (A), Statistics (A), Geography (A), Physics (A), Biology (A)
-	+ Chemistry (B), ICT (B), Design & Technology: Electronics (B)
-	+ English Language (C), English Literature (C), French (C)
