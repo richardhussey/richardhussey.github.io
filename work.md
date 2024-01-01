@@ -6,6 +6,10 @@ title: Work
 ## Current Employment
 ### [Advantage Smollan](http://www.advantagesmollan.com/) [2021-present]
 + Senior Data Scientist
+	+ **Key technologies**: Alteryx
+	+ I am responsible for all of the central team data science products, with a remit that covers all of our European operating companies.
+	+ I create and maintain the Data Science products available to our markets and their clients.
+	+ I hire and mentor junior colleagues, schedule and manage their workload, and act as their task manager.
 
 ## Previous Employment
 ### [Incora](https://www.incora.com/) (formally Pattonair) [2018-2021]
