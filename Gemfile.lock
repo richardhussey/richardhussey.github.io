@@ -27,7 +27,7 @@ GEM
     eventmachine (1.2.7)
     eventmachine (1.2.7-x64-mingw32)
     execjs (2.9.1)
-    faraday (2.7.12)
+    faraday (2.8.1)
       base64
       faraday-net_http (>= 2.0, < 3.1)
       ruby2_keywords (>= 0.0.4)
@@ -215,7 +215,7 @@ GEM
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
     minitest (5.20.0)
-    nokogiri (1.15.5)
+    nokogiri (1.16.0)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     octokit (4.25.1)
@@ -250,7 +250,7 @@ GEM
       ethon (>= 0.9.0)
     tzinfo (1.2.11)
       thread_safe (~> 0.1)
-    tzinfo-data (1.2023.3)
+    tzinfo-data (1.2023.4)
       tzinfo (>= 1.0.0)
     unf (0.1.4)
       unf_ext
@@ -277,4 +277,4 @@ DEPENDENCIES
   webrick (~> 1.7)
 
 BUNDLED WITH
-   2.5.1
+   2.5.3
