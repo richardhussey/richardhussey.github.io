@@ -9,5 +9,5 @@ I can also be contacted via:
 + GitHub: [{{ site.github.owner_name }}]({{site.github.owner_url}})
 + [Google Scholar](https://scholar.google.com/citations?user=Jh14gGMAAAAJ&hl=en)
 + [LinkedIn](https://www.linkedin.com/in/richard-hussey-a5028573/)
-+ Mastodon: [{{site.mastodon_username}}](https://mastodon.online/@Vecna)
-+ Twitter: [@{{ site.twitter_username }}](https://twitter.com/{{site.twitter_username}})
++ Mastodon: [Vecna@mastodon.online](https://mastodon.online/@Vecna)
++ Twitter: [@vecna](https://twitter.com/vecna)
