@@ -4,7 +4,7 @@ title: Work
 ---
 
 ## Current Employment
-### [Advantage Smollan](http://www.advantagesmollan.com/) [2021-present]
+### [Smollan](https://smollan.com/transition/advantage-smollan-europe/) (formally Advantage Smollan) [2021-2025]
 + Senior Data Scientist
 	+ **Key technologies**: Alteryx, Python, PySpark
 	+ I am responsible for all of the Central data science products, with a remit that covers all of our European operating companies.
