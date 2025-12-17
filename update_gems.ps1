@@ -1,3 +1,4 @@
+ruby -v
 gem -v
 gem update --system
 gem update
