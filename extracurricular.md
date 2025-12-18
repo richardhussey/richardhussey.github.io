@@ -3,6 +3,9 @@ layout: page
 title: Extracurricular Activities
 ---
 
++ 2023-Present: (Nottingham Data Science & AI Meetup)[https://www.meetup.com/nottingham-artificial-intelligence-meetup/]
+	+ Co-organiser of monthly meetup with speakers on a range of DS&AI topics.
+
 + 2007-2015: Isles of Darkness {Voluntary, not-for-profit}
 	+ Responsible for organising meeting locations
 	+ Handling money at meetings
