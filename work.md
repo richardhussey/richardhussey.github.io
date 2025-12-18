@@ -4,6 +4,7 @@ title: Work
 ---
 
 ## Current Employment
+## Previous Employment
 ### [Smollan](https://smollan.com/transition/advantage-smollan-europe/) (formally Advantage Smollan) [2021-2025]
 + Senior Data Scientist
 	+ **Key technologies**: Alteryx, Python, PySpark
@@ -16,7 +17,6 @@ title: Work
 	+ I consulted with stakeholders throughout the business to improve existing processes and design bespoke solutions to their problems.
 	+ I led interviews for roles in the Data team, mentored them, and directed their day-to-day work.
 
-## Previous Employment
 ### [Incora](https://www.incora.com/) (formally Pattonair) [2018-2021]
 + Senior Machine Learning Analyst, Data Science
 	+ **Key technologies**: Python, H2O, Graph DB
