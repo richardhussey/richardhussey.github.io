@@ -53,12 +53,12 @@ title: Work
 	+ I created a range of documentation for development and operational teams.
 
 ### University of Nottingham [2013-2014]
-+ Data Analyst, Executive Project Management Office
++ Data Analyst, Executive Project Management Office (Contract)
 	+ **Key technologies**: Excel, VBA
 	+ I collated financial data to track positive and negative contributions to course and module income.
 	+ I automated the generation of standardised reports and graphs based on the summary data (using VBA).
 
-+ Data Analyst, Market Intelligence Unit
++ Data Analyst, Market Intelligence Unit (Contract)
 	+ **Key technologies**: Excel, VBA
 	+ I created dashboards to allow end users to access strategic slices of large datasets.
 	+ I automated the generation of standardised reports and graphs based on the summary data.
