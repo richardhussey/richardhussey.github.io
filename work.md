@@ -4,7 +4,7 @@ title: Work
 ---
 
 ## Current Employment
-## [E.ON UK](https://www.eon.com/en.html) [2026]
+### [E.ON UK](https://www.eon.com/en.html) [2026]
 + Data Scientist (Contract)
 	+ **Key technologies**: Python, Fabric
 
