@@ -4,6 +4,10 @@ title: Work
 ---
 
 ## Current Employment
+## [E.ON UK](https://www.eon.com/en.html) [2026]
++ Data Scientist (Contract)
+	+ **Key technologies**: Python, Fabric
+
 ## Previous Employment
 ### [Smollan](https://smollan.com/transition/advantage-smollan-europe/) (formally Advantage Smollan) [2021-2025]
 + Senior Data Scientist
