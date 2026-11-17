@@ -25,7 +25,7 @@ GEM
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
-    ethon (0.19.1)
+    ethon (0.19.2)
       ffi (>= 1.15.0)
       logger
     eventmachine (1.2.7)
@@ -294,4 +294,4 @@ DEPENDENCIES
   webrick (~> 1.8)
 
 BUNDLED WITH
-  4.0.24
+  4.1.0
